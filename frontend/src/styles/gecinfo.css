@@ -1,0 +1,24 @@
+.title{
+    background-color: blueviolet;
+}
+.gec-info-form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.gec-info-form [type="submit"]{
+    width: fit-content;
+    color:white;
+    background-color: rgb(41, 57, 149);
+    border:none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.paper-form{
+    width: 50%;
+    padding: 30px !important;
+}

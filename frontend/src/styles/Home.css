@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(198, 249, 249);
+    text-align: center;
+
+}
+
+h1{
+   font-size:45uv;
+   color: blue; 
+   font-style:unset;
+   text-align: center;
+}
+
+Paper {
+    size: 90000px;
+    width: 500uv;
+    height: 800uv;
+
+}
+
+img{
+    width: 13%;
+
+}
+.plus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 183, 0) !important;
+}
+.add-icon{
+    color: white;
+    font-size: 30px !important;
+}
+
+
+
+
+
+
+
